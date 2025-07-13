@@ -7,7 +7,9 @@
 <br>This project is still under developing and testing.Maybe it has many problems.
 <br>If you encounter any problems,please send an email to us or issue this project.
 <br>Our email address: research@instap.xyz
+<br> 
 <br>Authors：HongYu Tang,Rui Xiao
+<br> 
 <br>Thank you for your support!
 <br>
 <br>Chinese Version中文版
@@ -17,5 +19,7 @@
 <br>这个项目仍处于开发和测试阶段，可能会存在很多问题。
 <br>如果你遇到了任何问题，请给我们发送电子邮件或者issue本项目。
 <br>我们的电邮地址： research@instap.xyz
+<br> 
 <br>作者：唐宏宇，肖睿
+<br> 
 <br>感谢你的支持！
