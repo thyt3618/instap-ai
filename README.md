@@ -6,9 +6,9 @@
 <br>We are proud of our project,because it is completely contributed by high school students.We have never received any external assistance.It all depends on us to learn and develop independently in our spare time.
 <br>This project is still under developing and testing.Maybe it has many problems.
 <br>If you encounter any problems,please send an email to us or issue this project.
-<br>Our email address: research@instap.xyz
+<br>Our email address: research@instap.xyz  And our offcial website:https://www.instap.xyz
 <br> 
-<br>Authors：HongYu Tang,Rui Xiao
+<br>Authors：HongYu Tang（@thyt3618）,Rui Xiao.
 <br> 
 <br>Thank you for your support!
 <br>
@@ -18,8 +18,8 @@
 <br>我们为我们的项目感到非常自豪，因为这是完全由高中生贡献的。我们从来没有接受过外部援助。这全靠我们在课余时间学习和开发。
 <br>这个项目仍处于开发和测试阶段，可能会存在很多问题。
 <br>如果你遇到了任何问题，请给我们发送电子邮件或者issue本项目。
-<br>我们的电邮地址： research@instap.xyz
+<br>我们的电邮地址： research@instap.xyz 我们的官方网站：https://www.instap.xyz
 <br> 
-<br>作者：唐宏宇，肖睿
+<br>作者：唐宏宇（@thyt3618），肖睿
 <br> 
 <br>感谢你的支持！
