@@ -9,7 +9,7 @@
 <br>Our email address: research@instap.xyz  And our offcial website:https://www.instap.xyz
 <br> 
 <br>Authors：HongYu Tang（@thyt3618）,Rui Xiao.
-<br> 
+<br>CAUTION!We are very busy because we had entered the grade 2 of high school.So,we may delay the restoration of https://www.instap.xyz and the upload of project files.
 <br>Thank you for your support!
 <br>
 <br>Chinese Version中文版
@@ -21,5 +21,5 @@
 <br>我们的电邮地址： research@instap.xyz 我们的官方网站：https://www.instap.xyz
 <br> 
 <br>作者：唐宏宇（@thyt3618），肖睿
-<br> 
+<br>注意！我们非常地忙，因为我们已经进入高二了。所以官网的恢复和项目文件的上传会延迟。
 <br>感谢你的支持！
